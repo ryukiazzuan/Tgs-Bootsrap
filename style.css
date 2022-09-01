@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: gray;
+}
+#projects {
+  background-color: gray;
+}
+.navbar-brand {
+  margin-left: -1px;
+}
+.Bootstrap {
+  margin-left: -111px;
+}
+section {
+  padding-top: 4rem;
+}
